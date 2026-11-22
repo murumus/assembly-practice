@@ -7,7 +7,7 @@ The programs are written in real-mode assembly and assembled using DOS DEBUG in 
 ## Exercises
 
 - **01 – ASCII Table:** A program that iterates through character codes using a loop and displays them using DOS interrupts.
-- **Hello World** Prints "Hello World" to the screen.
+- **02 - Hello World** Prints "Hello World" to the screen.
 
 ## Environment
 
